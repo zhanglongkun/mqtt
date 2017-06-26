@@ -1,4 +1,4 @@
-# MQTT协议中文版
+# MQTT协议中文
 
 by [mcxiaoke](https://github.com/mcxiaoke)
 
